@@ -8,4 +8,5 @@ int main()
     printf("Hello Erick");
     printf("Hello bro");
     printf("Hello maestra");
+    printf("Hello equipo");
 }
